@@ -13,6 +13,7 @@ os.path.splitext() is used to split the filename and its extension.
 os.path.exists() is used to check if a folder exists or not.
 os.makedirs() is used to create a new folder.
 shutil.move() is used to move the file to the appropriate folder.
+
 Functions:
 
 is_data(path) is used to check if a file is a data file (.csv).
